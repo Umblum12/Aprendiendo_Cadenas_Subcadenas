@@ -1,4 +1,4 @@
-﻿string aprendiendo = "Bienvenidos al mundo de la programación";
+﻿string aprendiendo = "Aprendiendo  sobre cadenas y subcadenas";
 string mayusculas = aprendiendo.ToUpper();
 string minusculas = aprendiendo.ToLower();
 Console.WriteLine(mayusculas);
